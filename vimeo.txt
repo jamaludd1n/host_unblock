@@ -1,0 +1,11 @@
+
+# ---------------------------------------------------
+# Vimeo
+# ---------------------------------------------------
+
+162.159.138.60    vimeo.com
+162.159.138.60    player.vimeo.com
+162.159.128.61    developer.vimeo.com
+199.232.46.109    f.vimeocdn.com
+199.232.46.10     i.vimeocdn.com
+199.232.45.194    vimeo-hp-videos.global.ssl.fastly.net
